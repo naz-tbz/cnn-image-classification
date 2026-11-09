@@ -41,7 +41,3 @@ The original training code is provided in `lab3.py`. To train the model again, t
 
 A previously trained CNN model (`cat_dog_cnn.h5`) is included for image classification.
 
-## Important
-The original Python code has not been changed. Syntax was checked, but training and
-inference were not run in this environment. Before making the repository public,
-confirm you have permission to redistribute the included training/test/sample images.
